@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hi there...
-Hola que tal?
-Olá Pessoal.
+- Hi there...
+- Hola que tal?
+- Olá Pessoal.
 
 This is about me...
 
