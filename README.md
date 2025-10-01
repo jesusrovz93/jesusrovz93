@@ -4,7 +4,8 @@
 - Hola que tal?
 - Olá Pessoal.
 
-This is about me...
+This is about me...<img width="1584" height="396" alt="Banner LinkedIn Tecnología Profesional" src="https://github.com/user-attachments/assets/d231f948-e02f-4d37-854c-6f8c65bd069d" />
+
 
 
 
