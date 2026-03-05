@@ -131,7 +131,7 @@ Agile Methodologies
 # Highlight Project
 
 ## Liga Mundialista
-<a href=www.ligamndialista.com" rel="liga">.ligamndialista.com</a>
+https://www.ligamndialista.com
 Full-stack web application for **tournament management and user interaction**.
 
 Responsibilities:
