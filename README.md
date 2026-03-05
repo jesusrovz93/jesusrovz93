@@ -103,6 +103,7 @@ Data Visualization Systems
 ## Frontend
 
 HTML5
+SASS
 CSS3
 Vanilla JavaScript
 
@@ -130,7 +131,7 @@ Agile Methodologies
 # Highlight Project
 
 ## Liga Mundialista
-
+<a href=www.ligamndialista.com" rel="liga">.ligamndialista.com</a>
 Full-stack web application for **tournament management and user interaction**.
 
 Responsibilities:
