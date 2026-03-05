@@ -175,15 +175,6 @@ EMEA
 
 ---
 
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jesusrovz93&theme=tokyo-night"/>
-
-</p>
-
----
 
 # Languages
 
