@@ -169,7 +169,9 @@ EMEA
 # Languages
 
 Spanish — Native
+
 English — B2
+
 Portuguese — C1
 
 ---
